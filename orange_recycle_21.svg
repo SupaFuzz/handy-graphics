@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.554616mm"
+   height="5.5578771mm"
+   viewBox="0 0 5.554616 5.5578771"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="orange_recycle_21.svg"
+   inkscape:export-filename="C:\Users\ahicox\Documents\Development\gfx\orange_recylce_21px.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="24.320485"
+     inkscape:cy="-0.14285592"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="false"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-others="false"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid823"
+       originx="-55.431025"
+       originy="-268.45789" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-55.431024,-22.984249)">
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#ff702b;stroke-width:0.32324114;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4529"
+       cx="58.208332"
+       cy="25.763187"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       rx="2.6157348"
+       ry="2.6172705" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path819"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:Webdings;-inkscape-font-specification:Webdings;letter-spacing:0px;word-spacing:0px;fill:#ff702b;fill-opacity:1;stroke:#ff702b;stroke-width:0.087;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 59.213281,26.950515 q -0.301162,0.251473 -0.66645,0.348911 -0.382438,0.09918 -0.741236,0.0025 l 0.0017,0.347662 -0.708578,-0.531162 0.712949,-0.49153 3.96e-4,0.31418 q 0.485956,0.08169 0.942364,-0.29938 0.585485,-0.488885 0.473125,-1.332329 l 0.644994,-0.142285 q 0.106174,0.49006 -0.08467,0.982813 -0.181813,0.472627 -0.57463,0.800635 z M 57.1777,26.247323 56.532705,26.38961 q -0.104689,-0.488152 0.08616,-0.980905 0.180336,-0.474536 0.573151,-0.802543 0.301161,-0.251471 0.667929,-0.347002 0.382441,-0.09918 0.73976,-0.0044 l 1.18e-4,-0.349222 0.706709,0.532722 -0.712948,0.491529 -3.97e-4,-0.314179 q -0.485951,-0.08169 -0.942362,0.299381 -0.585484,0.488886 -0.473124,1.332329 z"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
