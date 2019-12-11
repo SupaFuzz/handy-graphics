@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.pink-dusk-dark-1-hex { color: #652A8C; }
+.pink-dusk-dark-2-hex { color: #591E3A; }
+.pink-dusk-dark-3-hex { color: #271959; }
+.pink-dusk-dark-4-hex { color: #070E26; }
+.pink-dusk-dark-5-hex { color: #0D0800; }
+
+/* Color Theme Swatches in RGBA */
+.pink-dusk-dark-1-rgba { color: rgba(101, 42, 140, 1); }
+.pink-dusk-dark-2-rgba { color: rgba(89, 30, 58, 1); }
+.pink-dusk-dark-3-rgba { color: rgba(39, 25, 89, 1); }
+.pink-dusk-dark-4-rgba { color: rgba(7, 14, 38, 1); }
+.pink-dusk-dark-5-rgba { color: rgba(13, 8, 0, 1); }
+
+/* Color Theme Swatches in HSLA */
+.pink-dusk-dark-1-hsla { color: hsla(276, 53, 35, 1); }
+.pink-dusk-dark-2-hsla { color: hsla(331, 49, 23, 1); }
+.pink-dusk-dark-3-hsla { color: hsla(253, 56, 22, 1); }
+.pink-dusk-dark-4-hsla { color: hsla(226, 68, 8, 1); }
+.pink-dusk-dark-5-hsla { color: hsla(36, 100, 2, 1); }

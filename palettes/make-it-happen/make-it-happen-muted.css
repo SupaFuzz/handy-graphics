@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.make-it-happen-muted-1-hex { color: #D94E73; }
+.make-it-happen-muted-2-hex { color: #A1BF34; }
+.make-it-happen-muted-3-hex { color: #CCD99C; }
+.make-it-happen-muted-4-hex { color: #D9D3D0; }
+.make-it-happen-muted-5-hex { color: #736965; }
+
+/* Color Theme Swatches in RGBA */
+.make-it-happen-muted-1-rgba { color: rgba(217, 78, 115, 1); }
+.make-it-happen-muted-2-rgba { color: rgba(161, 191, 52, 1); }
+.make-it-happen-muted-3-rgba { color: rgba(204, 217, 156, 1); }
+.make-it-happen-muted-4-rgba { color: rgba(217, 211, 208, 1); }
+.make-it-happen-muted-5-rgba { color: rgba(115, 105, 101, 1); }
+
+/* Color Theme Swatches in HSLA */
+.make-it-happen-muted-1-hsla { color: hsla(344, 64, 57, 1); }
+.make-it-happen-muted-2-hsla { color: hsla(72, 57, 47, 1); }
+.make-it-happen-muted-3-hsla { color: hsla(72, 44, 73, 1); }
+.make-it-happen-muted-4-hsla { color: hsla(19, 10, 83, 1); }
+.make-it-happen-muted-5-hsla { color: hsla(17, 6, 42, 1); }

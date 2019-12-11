@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.pink-spring-bright-1-hex { color: #BF0436; }
+.pink-spring-bright-2-hex { color: #D90452; }
+.pink-spring-bright-3-hex { color: #F20574; }
+.pink-spring-bright-4-hex { color: #F2B705; }
+.pink-spring-bright-5-hex { color: #F29F05; }
+
+/* Color Theme Swatches in RGBA */
+.pink-spring-bright-1-rgba { color: rgba(191, 4, 54, 1); }
+.pink-spring-bright-2-rgba { color: rgba(217, 4, 82, 1); }
+.pink-spring-bright-3-rgba { color: rgba(242, 5, 116, 1); }
+.pink-spring-bright-4-rgba { color: rgba(242, 183, 5, 1); }
+.pink-spring-bright-5-rgba { color: rgba(242, 159, 5, 1); }
+
+/* Color Theme Swatches in HSLA */
+.pink-spring-bright-1-hsla { color: hsla(343, 95, 38, 1); }
+.pink-spring-bright-2-hsla { color: hsla(338, 96, 43, 1); }
+.pink-spring-bright-3-hsla { color: hsla(331, 95, 48, 1); }
+.pink-spring-bright-4-hsla { color: hsla(45, 95, 48, 1); }
+.pink-spring-bright-5-hsla { color: hsla(38, 95, 48, 1); }

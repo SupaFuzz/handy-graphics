@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.make-it-happen-deep-1-hex { color: #62733F; }
+.make-it-happen-deep-2-hex { color: #8DA632; }
+.make-it-happen-deep-3-hex { color: #F2F2F2; }
+.make-it-happen-deep-4-hex { color: #D9D9D9; }
+.make-it-happen-deep-5-hex { color: #404040; }
+
+/* Color Theme Swatches in RGBA */
+.make-it-happen-deep-1-rgba { color: rgba(98, 115, 63, 1); }
+.make-it-happen-deep-2-rgba { color: rgba(141, 166, 50, 1); }
+.make-it-happen-deep-3-rgba { color: rgba(242, 242, 242, 1); }
+.make-it-happen-deep-4-rgba { color: rgba(217, 217, 217, 1); }
+.make-it-happen-deep-5-rgba { color: rgba(64, 64, 64, 1); }
+
+/* Color Theme Swatches in HSLA */
+.make-it-happen-deep-1-hsla { color: hsla(79, 29, 34, 1); }
+.make-it-happen-deep-2-hsla { color: hsla(72, 53, 42, 1); }
+.make-it-happen-deep-3-hsla { color: hsla(0, 0, 94, 1); }
+.make-it-happen-deep-4-hsla { color: hsla(0, 0, 85, 1); }
+.make-it-happen-deep-5-hsla { color: hsla(0, 0, 25, 1); }

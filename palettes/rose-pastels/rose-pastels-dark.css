@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.rose-pastels-dark-1-hex { color: #A68083; }
+.rose-pastels-dark-2-hex { color: #734C6C; }
+.rose-pastels-dark-3-hex { color: #725D73; }
+.rose-pastels-dark-4-hex { color: #D9D4CC; }
+.rose-pastels-dark-5-hex { color: #BFAEA8; }
+
+/* Color Theme Swatches in RGBA */
+.rose-pastels-dark-1-rgba { color: rgba(166, 128, 131, 1); }
+.rose-pastels-dark-2-rgba { color: rgba(115, 76, 108, 1); }
+.rose-pastels-dark-3-rgba { color: rgba(114, 93, 115, 1); }
+.rose-pastels-dark-4-rgba { color: rgba(217, 212, 204, 1); }
+.rose-pastels-dark-5-rgba { color: rgba(191, 174, 168, 1); }
+
+/* Color Theme Swatches in HSLA */
+.rose-pastels-dark-1-hsla { color: hsla(355, 17, 57, 1); }
+.rose-pastels-dark-2-hsla { color: hsla(310, 20, 37, 1); }
+.rose-pastels-dark-3-hsla { color: hsla(297, 10, 40, 1); }
+.rose-pastels-dark-4-hsla { color: hsla(36, 14, 82, 1); }
+.rose-pastels-dark-5-hsla { color: hsla(15, 15, 70, 1); }

@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.mountain-sunset-dark-1-hex { color: #586E73; }
+.mountain-sunset-dark-2-hex { color: #A8BBBF; }
+.mountain-sunset-dark-3-hex { color: #343F40; }
+.mountain-sunset-dark-4-hex { color: #26211D; }
+.mountain-sunset-dark-5-hex { color: #F2B5A7; }
+
+/* Color Theme Swatches in RGBA */
+.mountain-sunset-dark-1-rgba { color: rgba(88, 110, 115, 1); }
+.mountain-sunset-dark-2-rgba { color: rgba(168, 187, 191, 1); }
+.mountain-sunset-dark-3-rgba { color: rgba(52, 63, 64, 1); }
+.mountain-sunset-dark-4-rgba { color: rgba(38, 33, 29, 1); }
+.mountain-sunset-dark-5-rgba { color: rgba(242, 181, 167, 1); }
+
+/* Color Theme Swatches in HSLA */
+.mountain-sunset-dark-1-hsla { color: hsla(191, 13, 39, 1); }
+.mountain-sunset-dark-2-hsla { color: hsla(190, 15, 70, 1); }
+.mountain-sunset-dark-3-hsla { color: hsla(184, 10, 22, 1); }
+.mountain-sunset-dark-4-hsla { color: hsla(26, 13, 13, 1); }
+.mountain-sunset-dark-5-hsla { color: hsla(11, 74, 80, 1); }

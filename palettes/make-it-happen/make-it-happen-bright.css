@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.make-it-happen-bright-1-hex { color: #F2527D; }
+.make-it-happen-bright-2-hex { color: #C4D925; }
+.make-it-happen-bright-3-hex { color: #F2F2F2; }
+.make-it-happen-bright-4-hex { color: #D9D9D9; }
+.make-it-happen-bright-5-hex { color: #404040; }
+
+/* Color Theme Swatches in RGBA */
+.make-it-happen-bright-1-rgba { color: rgba(242, 82, 125, 1); }
+.make-it-happen-bright-2-rgba { color: rgba(196, 217, 37, 1); }
+.make-it-happen-bright-3-rgba { color: rgba(242, 242, 242, 1); }
+.make-it-happen-bright-4-rgba { color: rgba(217, 217, 217, 1); }
+.make-it-happen-bright-5-rgba { color: rgba(64, 64, 64, 1); }
+
+/* Color Theme Swatches in HSLA */
+.make-it-happen-bright-1-hsla { color: hsla(343, 86, 63, 1); }
+.make-it-happen-bright-2-hsla { color: hsla(67, 70, 49, 1); }
+.make-it-happen-bright-3-hsla { color: hsla(0, 0, 94, 1); }
+.make-it-happen-bright-4-hsla { color: hsla(0, 0, 85, 1); }
+.make-it-happen-bright-5-hsla { color: hsla(0, 0, 25, 1); }

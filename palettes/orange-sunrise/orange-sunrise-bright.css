@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.orange-sunset-bright-1-hex { color: #F23D5E; }
+.orange-sunset-bright-2-hex { color: #F29544; }
+.orange-sunset-bright-3-hex { color: #F26835; }
+.orange-sunset-bright-4-hex { color: #F24C3D; }
+.orange-sunset-bright-5-hex { color: #0D0D0D; }
+
+/* Color Theme Swatches in RGBA */
+.orange-sunset-bright-1-rgba { color: rgba(242, 61, 94, 1); }
+.orange-sunset-bright-2-rgba { color: rgba(242, 149, 68, 1); }
+.orange-sunset-bright-3-rgba { color: rgba(242, 104, 53, 1); }
+.orange-sunset-bright-4-rgba { color: rgba(242, 76, 61, 1); }
+.orange-sunset-bright-5-rgba { color: rgba(13, 13, 13, 1); }
+
+/* Color Theme Swatches in HSLA */
+.orange-sunset-bright-1-hsla { color: hsla(349, 87, 59, 1); }
+.orange-sunset-bright-2-hsla { color: hsla(27, 86, 60, 1); }
+.orange-sunset-bright-3-hsla { color: hsla(16, 87, 57, 1); }
+.orange-sunset-bright-4-hsla { color: hsla(4, 87, 59, 1); }
+.orange-sunset-bright-5-hsla { color: hsla(0, 0, 5, 1); }

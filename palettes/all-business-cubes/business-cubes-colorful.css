@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.business-cubes-colorful-1-hex { color: #0F1D26; }
+.business-cubes-colorful-2-hex { color: #376B8C; }
+.business-cubes-colorful-3-hex { color: #234459; }
+.business-cubes-colorful-4-hex { color: #659DBF; }
+.business-cubes-colorful-5-hex { color: #ADC8D9; }
+
+/* Color Theme Swatches in RGBA */
+.business-cubes-colorful-1-rgba { color: rgba(15, 29, 38, 1); }
+.business-cubes-colorful-2-rgba { color: rgba(55, 107, 140, 1); }
+.business-cubes-colorful-3-rgba { color: rgba(35, 68, 89, 1); }
+.business-cubes-colorful-4-rgba { color: rgba(101, 157, 191, 1); }
+.business-cubes-colorful-5-rgba { color: rgba(173, 200, 217, 1); }
+
+/* Color Theme Swatches in HSLA */
+.business-cubes-colorful-1-hsla { color: hsla(203, 43, 10, 1); }
+.business-cubes-colorful-2-hsla { color: hsla(203, 43, 38, 1); }
+.business-cubes-colorful-3-hsla { color: hsla(203, 43, 24, 1); }
+.business-cubes-colorful-4-hsla { color: hsla(202, 41, 57, 1); }
+.business-cubes-colorful-5-hsla { color: hsla(203, 36, 76, 1); }
